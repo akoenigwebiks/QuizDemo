@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Data>
+
+	<Item>
+		<Question>Foo1?</Question>
+		<Answer>Bar1!</Answer>
+	</Item>
+	<Item>
+		<Question>Foo2?</Question>
+		<Answer>Bar2!</Answer>
+	</Item>
+	<Item>
+		<Question>Foo3?</Question>
+		<Answer>Bar3!</Answer>
+	</Item>
+</Data>
